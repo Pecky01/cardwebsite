@@ -1,3 +1,12 @@
 p {
     color: blueviolet
 }
+
+div {
+    border: 2px solid black;
+    margin: 20px;
+    height: 200px;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 5px;
+}
